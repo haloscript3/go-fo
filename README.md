@@ -37,7 +37,6 @@ This repository contains projects and examples created during my Go programming 
 - **WebSockets**: Real-time communication
 
 ### Testing & Quality
-- **Q&A**: Questions and answers
 - **OS Exec**: Operating system commands
 - **Error Types**: Error handling patterns
 - **Context-aware Reader**: Context-aware readers
